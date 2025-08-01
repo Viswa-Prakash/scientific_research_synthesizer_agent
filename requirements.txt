@@ -1,0 +1,11 @@
+python-dotenv
+streamlit
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-openai
+arxiv
+wikipedia
+semanticscholar
+xmltodict
