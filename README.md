@@ -42,6 +42,8 @@ A powerful, memory-enabled conversational AI assistant that can answer research 
 
 ---
 ##  Usage
+---
+```bash
 
 #### **1. Start the Streamlit app**
 ```bash
@@ -55,4 +57,5 @@ Find a relevant Wikipedia summary, and show one real-world business application.
 
 #### **3. Get a single, clear, final answer**
 The app displays only the last agent message—a comprehensive, step-by-step synthesis using all the tools available.
+
 ---
