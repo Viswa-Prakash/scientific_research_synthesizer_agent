@@ -41,7 +41,6 @@ A powerful, memory-enabled conversational AI assistant that can answer research 
     ```
 
 ---
----
 ##  Usage
 
 #### **1. Start the Streamlit app**
